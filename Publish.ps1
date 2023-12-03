@@ -162,7 +162,7 @@ param (
     $UseScriptDirectory=$True,
 
     ## => User Config <= ## 
-    $ProjectPath = "p3ppc.unhardcodedBgmIds.csproj",
+    $ProjectPath = "p3ppc.unhardcodedBgmIds/p3ppc.unhardcodedBgmIds.csproj",
     $PackageName = "p3ppc.unhardcodedBgmIds",
     $PublishOutputDir = "Publish/ToUpload",
 
